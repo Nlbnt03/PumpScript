@@ -36,3 +36,9 @@ chest_day(4)
 ## Documentation
 
 For a deep dive into the technical design, lexical and syntactic rules, AST structure, static type system, and interpreter semantics, please refer to the included **Technical Design Document**: `PumpScript_Technical_Design_Document_EN.pdf`.
+
+## Assignment Parts
+
+The repository contains the project separated into two assignment deliverables:
+- **`pumpscript_part1/`**: Contains the first part of the assignment along with its related PDF documentation and zip resources.
+- **`pumpscript_part2/`**: Contains the second part of the assignment with its corresponding PDF documentation and zip resources.
