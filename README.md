@@ -1,5 +1,6 @@
 # PumpScript
 
+![PumpScript Overview](photo.png)
 PumpScript is a small domain-specific language (DSL) designed to express workout routines in a safe, readable, and semantically constrained form. The implementation is written in Python without external parsing libraries. It consists of a hand-written lexer, a recursive-descent parser, a class-based Abstract Syntax Tree (AST), a two-pass static type checker, and a tree-walking interpreter.
 
 ## Key Features
